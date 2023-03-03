@@ -1,0 +1,16 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "just for learning",
+  "main": "Folder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Folder.js"
+  },
+  "author": "balaji",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^2.4.2",
+    "nodemon": "^2.0.21"
+  }
+}
